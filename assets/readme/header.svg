@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240">
+  <title>Animated technical profile header</title>
+  <defs>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#8b949e" stroke-width="0.5" opacity="0.16" />
+    </pattern>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b949e" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#f0f6fc" stop-opacity="0.5" />
+      <stop offset="1" stop-color="#8b949e" stop-opacity="0" />
+    </linearGradient>
+    <clipPath id="phrase-one">
+      <rect x="62" y="132" width="640" height="34">
+        <animate attributeName="width" values="0;640;640;0;0" keyTimes="0;0.12;0.21;0.25;1" dur="16s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+    <clipPath id="phrase-two">
+      <rect x="62" y="132" width="0" height="34">
+        <animate attributeName="width" values="0;640;640;0;0" keyTimes="0;0.12;0.21;0.25;1" begin="4s" dur="16s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+    <clipPath id="phrase-three">
+      <rect x="62" y="132" width="0" height="34">
+        <animate attributeName="width" values="0;640;640;0;0" keyTimes="0;0.12;0.21;0.25;1" begin="8s" dur="16s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+    <clipPath id="phrase-four">
+      <rect x="62" y="132" width="0" height="34">
+        <animate attributeName="width" values="0;640;640;0;0" keyTimes="0;0.12;0.21;0.25;1" begin="12s" dur="16s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="899" height="239" rx="12" fill="#050608" stroke="#30363d" />
+  <rect x="1" y="1" width="898" height="238" rx="11" fill="url(#grid)">
+    <animate attributeName="opacity" values="0.45;0.8;0.45" dur="10s" repeatCount="indefinite" />
+  </rect>
+  <rect x="-18" y="1" width="18" height="238" fill="url(#scan)" opacity="0.32">
+    <animate attributeName="x" values="-18;900" dur="14s" repeatCount="indefinite" />
+  </rect>
+
+  <path d="M18 42V18H42 M858 18H882V42 M18 198V222H42 M858 222H882V198" fill="none" stroke="#8b949e" stroke-width="1" opacity="0.55" />
+
+  <text x="32" y="39" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="2">PROFILE / 01</text>
+  <circle cx="36" cy="66" r="3" fill="#f0f6fc">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" repeatCount="indefinite" />
+  </circle>
+  <text x="48" y="70" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.8">CURRENTLY BUILDING</text>
+
+  <line x1="32" y1="94" x2="655" y2="94" stroke="#30363d" stroke-width="1" stroke-dasharray="8 12">
+    <animate attributeName="stroke-dashoffset" values="0;-40" dur="7s" repeatCount="indefinite" />
+  </line>
+  <text x="32" y="121" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.7">ACTIVE FOCUS</text>
+  <text x="32" y="158" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="24">›</text>
+  <text x="62" y="158" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="23" letter-spacing="0.8" clip-path="url(#phrase-one)">FULL STACK DEVELOPER</text>
+  <text x="62" y="158" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="23" letter-spacing="0.8" clip-path="url(#phrase-two)">BUILDING WEB APPLICATIONS</text>
+  <text x="62" y="158" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="23" letter-spacing="0.8" clip-path="url(#phrase-three)">FRONTEND / BACKEND / DATABASE</text>
+  <text x="62" y="158" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="23" letter-spacing="0.8" clip-path="url(#phrase-four)">FEU INSTITUTE OF TECHNOLOGY</text>
+
+  <g transform="translate(772 120)" fill="none" stroke="#8b949e">
+    <circle r="84" stroke-width="0.7" opacity="0.28" stroke-dasharray="2 8" />
+    <circle r="58" stroke-width="0.8" opacity="0.42" stroke-dasharray="24 14" />
+    <circle r="31" stroke-width="0.8" opacity="0.58" />
+    <line x1="-98" y1="0" x2="98" y2="0" stroke-width="0.5" opacity="0.24" />
+    <line x1="0" y1="-98" x2="0" y2="98" stroke-width="0.5" opacity="0.24" />
+    <g>
+      <circle cx="84" cy="0" r="3.2" fill="#c9d1d9" stroke="none" />
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="30s" repeatCount="indefinite" />
+    </g>
+    <g>
+      <circle cx="0" cy="-58" r="2.4" fill="#8b949e" stroke="none" />
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="22s" repeatCount="indefinite" />
+    </g>
+    <circle r="4" fill="#f0f6fc" stroke="none">
+      <animate attributeName="opacity" values="0.35;0.9;0.35" dur="4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <text x="32" y="214" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="9" letter-spacing="1.6">INTERFACE / APPLICATION / INFRASTRUCTURE</text>
+  <text x="676" y="214" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="9" letter-spacing="1.4">SYSTEMS IN MOTION</text>
+</svg>

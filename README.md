@@ -21,18 +21,26 @@
 <br />
 
 <p align="center">
+  <img src="./assets/readme/header.svg" width="100%" alt="Animated technical header cycling through Full Stack Developer, Building Web Applications, Frontend / Backend / Database, and FEU Institute of Technology" />
+</p>
+
+<br />
+
+<p align="center">
   <sub>FULL STACK DEVELOPMENT &nbsp;·&nbsp; WEB APPLICATIONS &nbsp;·&nbsp; APIs &amp; DATABASES</sub>
 </p>
 
 <br />
 
----
+<p align="center"><img src="./assets/readme/divider.svg" width="100%" alt="" /></p>
 
-## About
+## 01 / About
 
 I'm Miggy Taduran, an Information Technology student at FEU Institute of Technology focused on full-stack development. I build practical web applications across the frontend and backend, with an emphasis on clear interfaces, dependable APIs, and maintainable application architecture.
 
-## Featured Project
+<p align="center"><img src="./assets/readme/divider.svg" width="100%" alt="" /></p>
+
+## 02 / Featured Project
 
 ### Deliverex
 
@@ -40,9 +48,13 @@ I'm Miggy Taduran, an Information Technology student at FEU Institute of Technol
 
 <br />
 
+<p align="center">
+  <img src="./assets/readme/live.svg" width="100%" alt="Deliverex live production indicator" />
+</p>
+
 <div align="center">
   <a href="https://deliverexapp.com/">
-    <img src="https://raw.githubusercontent.com/taduranmiggy/deliverex/main/frontend/public/deliverexfavicon.png" width="70%" alt="Deliverex brand artwork" />
+    <img src="https://raw.githubusercontent.com/taduranmiggy/deliverex/main/frontend/public/favicon-512x512.png" width="34%" alt="Deliverex logo" />
   </a>
 </div>
 
@@ -54,9 +66,13 @@ Deliverex is a role-based logistics and fleet platform that coordinates job orde
 
 **[View Live System ↗](https://deliverexapp.com/)** &nbsp;·&nbsp; **[Source Code ↗](https://github.com/taduranmiggy/deliverex)**
 
----
+<p align="center"><img src="./assets/readme/divider.svg" width="100%" alt="" /></p>
 
-## Tech Stack
+## 03 / Tech Stack
+
+<p align="center">
+  <img src="./assets/readme/stack-strip.svg" width="100%" alt="Animated technology strip: React, Laravel, FastAPI, MySQL, TypeScript, Leaflet, Docker, and Git" />
+</p>
 
 <p>
   <strong>Frontend</strong>
@@ -90,7 +106,9 @@ Deliverex is a role-based logistics and fleet platform that coordinates job orde
   <sub>Git · Docker · GitHub Actions</sub>
 </p>
 
-## Selected Work
+<p align="center"><img src="./assets/readme/divider.svg" width="100%" alt="" /></p>
+
+## 04 / Selected Work
 
 ### Ka-Agapay
 
@@ -116,13 +134,17 @@ A buyer-and-seller e-commerce platform for coconut coir products with catalog, c
 
 [Repository ↗](https://github.com/taduranmiggy/cocoloco)
 
-## GitHub Activity
+<p align="center"><img src="./assets/readme/divider.svg" width="100%" alt="" /></p>
+
+## 05 / GitHub Activity
 
 Follow my latest public work and contribution history directly on GitHub.
 
 [View contribution activity ↗](https://github.com/taduranmiggy?tab=overview) &nbsp;·&nbsp; [Browse repositories ↗](https://github.com/taduranmiggy?tab=repositories)
 
-## Currently
+<p align="center"><img src="./assets/readme/divider.svg" width="100%" alt="" /></p>
+
+## 06 / Currently
 
 | | |
 | :--- | :--- |
@@ -130,15 +152,16 @@ Follow my latest public work and contribution history directly on GitHub.
 | **Focus** | Full Stack Development |
 | **Building** | Web applications, APIs, and practical systems |
 
-## Let's Connect
+<p align="center"><img src="./assets/readme/divider.svg" width="100%" alt="" /></p>
+
+## 07 / Let's Connect
 
 I'm always interested in connecting with fellow developers and discussing interesting software projects.
 
 **[LinkedIn ↗](https://www.linkedin.com/in/jm-taduran-579238319/)** &nbsp;·&nbsp; **[GitHub ↗](https://github.com/taduranmiggy)** &nbsp;·&nbsp; **[Deliverex ↗](https://deliverexapp.com/)**
 
----
+<p align="center"><img src="./assets/readme/divider.svg" width="100%" alt="" /></p>
 
 <p align="center">
-  <sub>Miggy Taduran · Full Stack Development · FEU Institute of Technology</sub>
+  <sub>@taduranmiggy · Full Stack Development · FEU Institute of Technology</sub>
 </p>
-# taduranmiggy

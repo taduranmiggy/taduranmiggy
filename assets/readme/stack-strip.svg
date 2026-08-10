@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 58">
+  <title>Animated technology strip</title>
+  <defs>
+    <clipPath id="strip-clip">
+      <rect x="0" y="0" width="900" height="58" rx="9" />
+    </clipPath>
+    <linearGradient id="strip-scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b949e" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#c9d1d9" stop-opacity="0.28" />
+      <stop offset="1" stop-color="#8b949e" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="899" height="57" rx="9" fill="#050608" stroke="#30363d" />
+  <g clip-path="url(#strip-clip)">
+    <rect x="-24" y="1" width="24" height="56" fill="url(#strip-scan)">
+      <animate attributeName="x" values="-24;900" dur="13s" repeatCount="indefinite" />
+    </rect>
+    <g>
+      <text x="20" y="36" textLength="860" lengthAdjust="spacing" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" letter-spacing="1.4">REACT · LARAVEL · FASTAPI · MYSQL · TYPESCRIPT · LEAFLET · DOCKER · GIT</text>
+      <text x="920" y="36" textLength="860" lengthAdjust="spacing" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" letter-spacing="1.4">REACT · LARAVEL · FASTAPI · MYSQL · TYPESCRIPT · LEAFLET · DOCKER · GIT</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-900 0" dur="32s" repeatCount="indefinite" />
+    </g>
+  </g>
+</svg>

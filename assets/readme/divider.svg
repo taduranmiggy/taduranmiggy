@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 20">
+  <title>Animated section divider</title>
+  <line x1="0" y1="10" x2="900" y2="10" stroke="#30363d" stroke-width="1" />
+  <line x1="0" y1="10" x2="900" y2="10" stroke="#8b949e" stroke-width="1" stroke-dasharray="2 16" opacity="0.34">
+    <animate attributeName="stroke-dashoffset" values="0;-36" dur="8s" repeatCount="indefinite" />
+  </line>
+  <circle cx="0" cy="10" r="2.4" fill="#c9d1d9">
+    <animate attributeName="cx" values="0;900" dur="12s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.92;1" dur="12s" repeatCount="indefinite" />
+  </circle>
+  <path d="M0 5V15 M900 5V15" stroke="#8b949e" stroke-width="1" opacity="0.55" />
+</svg>
