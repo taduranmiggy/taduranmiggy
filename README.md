@@ -141,3 +141,4 @@ I'm always interested in connecting with fellow developers and discussing intere
 <p align="center">
   <sub>Miggy Taduran · Full Stack Development · FEU Institute of Technology</sub>
 </p>
+# taduranmiggy
