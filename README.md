@@ -136,7 +136,36 @@ A buyer-and-seller e-commerce platform for coconut coir products with catalog, c
 
 <p align="center"><img src="./assets/readme/divider.svg" width="100%" alt="" /></p>
 
-## 05 / GitHub Activity
+## 05 / Repository Guide
+
+The repositories in the first group below are the best snapshot of my current full-stack capabilities.
+
+### Featured full-stack systems
+
+- **[deliverex](https://github.com/taduranmiggy/deliverex)** — Production-focused logistics and fleet platform showing end-to-end system delivery across frontend, backend, and operations workflows.
+- **[kaagapay](https://github.com/taduranmiggy/kaagapay)** — Healthcare management system work focused on practical records, access workflows, and service operations for local health offices.
+- **[himlayan](https://github.com/taduranmiggy/himlayan)** — GIS-oriented cemetery management project combining mapping, records handling, and location-based workflows.
+- **[cocoloco](https://github.com/taduranmiggy/cocoloco)** — E-commerce application project demonstrating catalog, ordering, and inventory-related business flows.
+
+### Additional applications
+
+- **[diaryapp](https://github.com/taduranmiggy/diaryapp)** — Kotlin-based diary application project that demonstrates mobile app implementation fundamentals.
+- **[jorney](https://github.com/taduranmiggy/jorney)** — Small web application prototype used to practice frontend structure and interaction patterns.
+- **[LOVE](https://github.com/taduranmiggy/LOVE)** — Browser game project showing interactive UI and basic game-flow implementation.
+- **[loveyou](https://github.com/taduranmiggy/loveyou)** — Lightweight TypeScript web project used for focused UI and deployment practice.
+
+### Collaboration / study
+
+- **[devasc-study-team](https://github.com/taduranmiggy/devasc-study-team)** — Collaboration space for shared study exercises and team-based practice.
+
+### In progress / needs polishing
+
+- **[devmigoportfolio](https://github.com/taduranmiggy/devmigoportfolio)** — Work-in-progress portfolio concept that is still being refined.
+- **[FLEETOPS](https://github.com/taduranmiggy/FLEETOPS)** — Early-stage repository reserved for a future fleet-operations focused buildout.
+
+<p align="center"><img src="./assets/readme/divider.svg" width="100%" alt="" /></p>
+
+## 06 / GitHub Activity
 
 Follow my latest public work and contribution history directly on GitHub.
 
@@ -144,7 +173,7 @@ Follow my latest public work and contribution history directly on GitHub.
 
 <p align="center"><img src="./assets/readme/divider.svg" width="100%" alt="" /></p>
 
-## 06 / Currently
+## 07 / Currently
 
 | | |
 | :--- | :--- |
@@ -154,7 +183,7 @@ Follow my latest public work and contribution history directly on GitHub.
 
 <p align="center"><img src="./assets/readme/divider.svg" width="100%" alt="" /></p>
 
-## 07 / Let's Connect
+## 08 / Let's Connect
 
 I'm always interested in connecting with fellow developers and discussing interesting software projects.
 
