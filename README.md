@@ -1,4 +1,4 @@
-<h1 align="center">MIGGY TADURAN</h1>
+<h1 align="center">John Miguel Taduran</h1>
 
 <p align="center">
   <strong>Full Stack Developer</strong> &nbsp;·&nbsp; IT Student
@@ -36,7 +36,7 @@
 
 ## 01 / About
 
-I'm Miggy Taduran, an Information Technology student at FEU Institute of Technology focused on full-stack development. I build practical web applications across the frontend and backend, with an emphasis on clear interfaces, dependable APIs, and maintainable application architecture.
+I'm John Miguel Taduran, an Information Technology student at FEU Institute of Technology focused on full-stack development. I build practical web applications across the frontend and backend, with an emphasis on clear interfaces, dependable APIs, and maintainable application architecture.
 
 <p align="center"><img src="./assets/readme/divider.svg" width="100%" alt="" /></p>
 
